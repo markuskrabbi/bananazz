@@ -1,0 +1,77 @@
+html, body {
+  background-color: #f0d300;
+  margin: auto;
+  width: 100%;
+  font-family: 'Fredoka One', cursive;
+}
+.topheader {
+  display: flex;
+  align-items: center;
+
+}
+.wrapper {
+  width: auto;
+}
+.nav div {
+  height: 6px;
+  background-color: black;
+  margin: 5px 0;
+  border-radius: 25px;
+}
+.nav {
+  width: 100px;
+  display: block;
+  margin: 4em 0 0 5em;
+
+}
+.one {
+  width: 40px;
+}
+.two {
+  width: 40px;
+}
+.three {
+  width: 40px;
+}
+.logo {
+  display: block;
+  margin: 4em 0 0 5em;
+  padding: 0 0 0 37em;
+}
+.Rmenu {
+  display: block;
+  margin: 4em 0 0 5em;
+  padding: 0 0 0 40em;
+}
+.lefttext {
+  display: block;
+  margin: 7em 0 0 -12.5em;
+}
+.keskel {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+.middlepic {
+  display: flex;
+  padding: 0 18em 0 0;
+}
+.rightdots {
+  display: block;
+  margin: 7em 4.5em 0 0;
+}
+.jalg {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.leftbot {
+  margin: 10em 0 0 4em;
+}
+.botmiddle {
+  margin: -9em 0 0 0;
+}
+.botright {
+  margin: 9em 4em 0 0em;
+}
